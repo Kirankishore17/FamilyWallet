@@ -1,0 +1,79 @@
+[
+    {
+        "user": "DAVID",
+        "timestamp": "2022-10-16 20:33:32",
+        "current_balance": 11,
+        "description": "withdrew $9",
+        "amount": -9
+    },
+    {
+        "user": "DAVID",
+        "timestamp": "2022-10-16 20:16:05",
+        "current_balance": 20,
+        "description": "added $20 to wallet",
+        "amount": 20
+    },
+    {
+        "user": "DAVID",
+        "timestamp": "2022-10-15 13:59:30",
+        "current_balance": 0,
+        "description": "withdrew $755",
+        "amount": -755
+    },
+    {
+        "user": "MARY",
+        "timestamp": "2022-10-14 23:37:37",
+        "current_balance": 755,
+        "description": "withdrew $65",
+        "amount": -65
+    },
+    {
+        "user": "ROY",
+        "timestamp": "2022-10-14 22:45:21",
+        "current_balance": 820,
+        "description": "spent $10 at Tim Brownton",
+        "amount": -10
+    },
+    {
+        "user": "MARY",
+        "timestamp": "2022-10-14 22:24:54",
+        "current_balance": 830,
+        "description": "spent $70 at Bell",
+        "amount": -70
+    },
+    {
+        "user": "MARY",
+        "timestamp": "2022-10-14 22:05:36",
+        "current_balance": 900,
+        "description": "added $100 to wallet",
+        "amount": 100
+    },
+    {
+        "user": "MARY",
+        "timestamp": "2022-10-14 21:53:29",
+        "current_balance": 800,
+        "description": "withdrew $20",
+        "amount": -20
+    },
+    {
+        "user": "MARY",
+        "timestamp": "2022-10-14 20:43:27",
+        "current_balance": 820,
+        "description": "withdrew $20",
+        "amount": -20
+    },
+    {
+        "user": "MARY",
+        "timestamp": "2022-10-14 20:39:50",
+        "current_balance": 840,
+        "description": "withdrew $20",
+        "amount": -20
+    },
+    {
+        "user": "MARY",
+        "timestamp": "2022-10-13 22:05:36",
+        "current_balance": 860,
+        "description": "added $860 to wallet",
+        "amount": 860
+    }
+]

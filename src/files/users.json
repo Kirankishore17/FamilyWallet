@@ -1,0 +1,53 @@
+[
+    {
+        "username": "mary",
+        "password": "pass",
+        "profile": "MOM",
+        "last_spent": "2022-10-01 18:15:24",
+        "allow_multi_spend": "true",
+        "credit_limit": "50",
+        "allow_overspend": "true",
+        "status": "ACTIVE",
+        "account_number": ""
+    },
+    {
+        "username": "David",
+        "password": "pass",
+        "profile": "DAD",
+        "last_spent": "2022-10-01 18:15:24",
+        "allow_multi_spend": "true",
+        "credit_limit": "50",
+        "allow_overspend": "true",
+        "status": "ACTIVE"
+    },
+    {
+        "username": "Sam",
+        "password": "pass",
+        "profile": "CHILD",
+        "last_spent": "2022-10-01 18:15:24",
+        "allow_multi_spend": "true",
+        "credit_limit": "50",
+        "allow_overspend": "true",
+        "status": "BLOCKED"
+    },
+    {
+        "username": "Roy",
+        "password": "pass",
+        "profile": "CHILD",
+        "last_spent": "2022-10-14 22:45:21",
+        "allow_multi_spend": "false",
+        "credit_limit": "50",
+        "allow_overspend": "false",
+        "status": "ACTIVE"
+    },
+    {
+        "username": "Young",
+        "password": "pass",
+        "profile": "CHILD",
+        "last_spent": "2022-10-01 18:15:24",
+        "allow_multi_spend": "true",
+        "credit_limit": "50",
+        "allow_overspend": "false",
+        "status": "BLOCKED"
+    }
+]
