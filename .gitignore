@@ -1,0 +1,7 @@
+# Environment
+environment/
+.vscode/
+
+# Temporary files 
+__pycache__/
+*.pyc
