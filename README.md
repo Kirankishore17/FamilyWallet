@@ -2,7 +2,7 @@
 
 # Family Bank Wallet
 
-> A bank wallet App for a family that runs on console
+> A bank wallet App for a family that runs on console.
 
 ## Description
 This project is a bank wallet application for a family consisting of Mom, Dad and Children. Children have limited access to the wallet with respect to how much they can spend and how often, while their parents have no limit to purchases, view past transactions and can also add funds to the wallet. A minimum balance is required to spend money and system notifies parents when the wallet balance drops below $100. 
