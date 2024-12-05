@@ -33,7 +33,7 @@ python -m pip install click==8.1.3
 ```
 
 ## Installing and Running the project
-Clone this repo and run app.py file to open the wallet. You have to provide username and password to signin to the account. Profile related info can be found in users.json file. New user accounts can be created by adding new objects to users.json file. 
+Clone this repo and run app.py file to open the wallet. You have to provide username and password to signin to the account. Profile related info can be found in users.json file. New user accounts can be created by adding new objects to users.json file. <br>
 ![Login](Docs/Screenshots/login-authorized.png)
 
 ## License
